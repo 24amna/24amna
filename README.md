@@ -3,7 +3,7 @@ I’m Amna Imtiaz, a Software Engineering graduate with a passion for creating m
 
 
 # 💫 About Me:
-🎓 Software Engineering graduate<br><br>💻 Passionate about web development and data analysis<br><br>🚀 Enjoy building practical and impactful projects<br><br>📚 Always eager to learn new technologies<br><br>🌍 Based in Pakistan<br><br>🛠 Experienced with tools like Flask, Firebase, SQL, and Power BI<br><br><br><br><br><br><br><br><br><br>Ask ChatGPT<br>
+🎓 Software Engineering graduate<br><br>💻 Passionate about web development and data analysis<br><br>🚀 Enjoy building practical and impactful projects<br><br>📚 Always eager to learn new technologies<br><br>🌍 Based in Pakistan<br><br>🛠 Experienced with tools like Flask, Firebase, SQL, and Power BI<br><br><br><br><br><br><br><br><br><br>
 
 
 ## 🌐 Socials:
